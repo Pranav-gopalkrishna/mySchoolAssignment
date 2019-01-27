@@ -3,7 +3,7 @@
 ## Tables
 
 
-[assignments](/01_Fact_tables.md)
+[assignments](./01_Fact_tables.md)
 
 groups
 roles
