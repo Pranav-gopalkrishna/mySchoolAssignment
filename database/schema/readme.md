@@ -36,11 +36,11 @@
 
 [For 'Assignments' (table.assignments)](./doc/12_Functions_assignments.md)
 
-[For 'Each student's assignments'](./doc/13_Functions_studentsAssignments.md)
+[For 'Each student's assignments (table.studentsAssignments)](./doc/13_Functions_studentsAssignments.md)
 
-[For 'Roles' (table.roles](./doc/14_Functions_roles.md)
+[For 'Roles' (table.roles)](./doc/14_Functions_roles.md)
 
-[For 'Students' )table.students](./doc/15_Functions_students.md)
+[For 'Students' (table.students)](./doc/15_Functions_students.md)
 
 [For 'Teachers' (table.teachers)](./doc/16_Functions_teachers.md)
 
