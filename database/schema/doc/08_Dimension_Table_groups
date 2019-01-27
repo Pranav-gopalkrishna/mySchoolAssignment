@@ -1,6 +1,6 @@
 # table.groups
 
-```
+``` sql
 CREATE TABLE public.groups
 (
     "groupID" smallint NOT NULL,
