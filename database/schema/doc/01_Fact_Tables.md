@@ -1,4 +1,4 @@
-# Assignment table 
+# table.assignments 
 
 ```sql
 CREATE TABLE public.assignments
