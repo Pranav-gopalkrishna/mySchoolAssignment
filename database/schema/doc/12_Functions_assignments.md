@@ -49,3 +49,27 @@ function getSingleAssignment(req, res, next){
     });
 }
 ```
+
+## Data addition functions
+
+``` javascript
+function addAssignment(req, res, next) {
+    req.body.isclosed = Boolean(req.body.isclosed);
+    req.body.groupid = parseInt(req.body.groupid);
+    req.body.teacherid = parseInt(req.body.teacherid);
+    //bb8.db.one('SELECT upsertsubject(${subjectname}, ${subjectdescription}, ${groupid}, ${isobsolete}, ${teacherid})',
+    bb8.db.one('SELECT upsertassignment(${assignmentname}, ${subjectid}, ${teacherid}, ${assignmentdate}, ${draftsubmissiondate}, ${finalsubmissiondate}, ${teacherid}, ${teacherid}, ${teacherid}, ${teacherid})',  
+    req.body)
+      .then(function (data) {
+        res.status(200)
+          .json({
+            status: 'success',
+            data: data,
+            message: 'Inserted one subject'
+          });
+      })
+      .catch(function (err) {
+        return next(err);
+      });
+  }
+  ```
