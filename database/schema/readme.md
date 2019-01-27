@@ -6,7 +6,7 @@
 
 [Assignments](./doc/01_Fact_Table.md)
 
-[Student's assignments](./doc/02_Fact_Table_studentsAssignments.md)
+[Each student's assignments](./doc/02_Fact_Table_studentsAssignments.md)
 
 ### Dimension tables
 
