@@ -24,4 +24,10 @@
 
 ## Functions
 
+### Trigger functions
 
+[Each student's assignments - history](./doc/09_Trigger_Function_studentsAssignments_hist.md)
+
+[Students - history](./doc/10_Trigger_Function_students_hist.md)
+
+[Teachers - history](./doc/11_Trigger_Function_teachers_hist.md)
