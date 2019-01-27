@@ -1,9 +1,9 @@
 # SCHEMA
 
 ## Tables
-assignments
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+
+[assignments](/01_Fact_tables.md)
 
 groups
 roles
