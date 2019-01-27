@@ -3,12 +3,6 @@
 ## Tables
 
 
-[assignments](./01_Fact_tables.md)
+[assignments](./01_Fact_Tables.md)
 
-groups
-roles
-studentAssignments
-students
-subjectCombinations
-subjects
-teachers
+
